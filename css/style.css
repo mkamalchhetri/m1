@@ -6,6 +6,10 @@
 .pad-10{
     padding: 10px 10px;
 }
+
+.pad-20{
+    padding: 20px 20px;
+}
 /**
  * Escape the navbar
  */
